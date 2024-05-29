@@ -14,5 +14,6 @@
     2. Then add them in our fitting
 ### Function to convert all the image into the desireed form as required by the model
     1. Most probably I need to convert it into shape of (256,256,3)
-    2. And as we are working with batches So i need to convert them using `expand_dims` 
+    2. And as we are working with batches So i need to convert them using `expand_dims`
+    " I LOVE CODING" 
 ### Now i have to prepare a function which Accept any Image of that kind and Gives The prediction of it with the Probability also
